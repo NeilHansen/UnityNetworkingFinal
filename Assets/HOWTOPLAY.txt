@@ -1,0 +1,12 @@
+How To Play:
+
+wasd or arrows to move and rotate
+
+leftCtrl to shoot
+
+E to pickup the flag
+
+Player must pick up flag and bring it to the score zone marked in purple to get points
+
+The yellow ball is a power up that has two effects while your holding the flag it will 
+give a speed boost, without it will allow fors you to shoot faster
