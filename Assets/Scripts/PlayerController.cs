@@ -96,8 +96,8 @@ public class PlayerController : NetworkBehaviour
 	{
 		Vector3 jumpVelocity = Vector3.up * 5.0f;
 		m_rb.velocity += jumpVelocity;
-		TrailRenderer tr = GetComponent<TrailRenderer>();
-		tr.enabled = true;
+	//	TrailRenderer tr = GetComponent<TrailRenderer>();
+		//tr.enabled = true;
 	}
 
 
