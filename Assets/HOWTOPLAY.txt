@@ -6,6 +6,8 @@ leftCtrl to shoot
 
 E to pickup the flag
 
+if you shoot the other player they will respawn, if they have the flag it will be dropped when they die
+
 Player must pick up flag and bring it to the score zone marked in purple to get points
 
 The yellow ball is a power up that has two effects while your holding the flag it will 
